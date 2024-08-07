@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python train_mipnerf360.py config/base.gin --scene flowers --n_features 2
